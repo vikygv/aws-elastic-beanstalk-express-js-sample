@@ -1,3 +1,5 @@
+git add app.js
+git commit -m "Full pipeline test"
 const express = require('express');
 const app = express();
 const port = 8080;
